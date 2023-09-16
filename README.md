@@ -1,2 +1,2 @@
-# mental-bereau
+# mind-vision
 Adaptive AI story story master
